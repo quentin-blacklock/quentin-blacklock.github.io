@@ -1,0 +1,50 @@
+.post {
+  margin-bottom: 4pc;
+}
+
+.post-date {
+  display: block;
+  margin-top: -1.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-weight: bold;
+}
+
+.post-comment-button {
+  float: left;
+  font-size: 80%;
+}
+
+.older {
+  float: right;
+}
+
+.recent-post {
+  line-height: 2;
+  border-bottom: solid #ccc 1px;
+}
+
+.post-read-more {
+}
+
+a.post-read-more {
+  border-bottom-width: 0;
+  font-size: x-large;
+  float: right;
+  margin-top: -0.5pc;
+}
+
+.post-excerpt {
+  margin-bottom: 1pc;
+}
+
+.post-title-excerpt {
+  margin-bottom: 0.25pc;
+}
+
+.post-date-excerpt {
+  display: block;
+  color: #9a9a9a;
+  font-weight: bold;
+  margin-bottom: -1.4em;
+}

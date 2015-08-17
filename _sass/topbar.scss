@@ -1,0 +1,18 @@
+.site-title {
+  color: #777;
+}
+
+#topbar {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: .5pc;
+
+  a {
+    color: #999;
+    padding-right: 1pc;
+
+    &:hover {
+      color: #333;
+      text-decoration: none;
+    }
+  }
+}

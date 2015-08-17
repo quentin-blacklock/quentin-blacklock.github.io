@@ -1,0 +1,13 @@
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #333;
+}
+
+blockquote > :first-child {
+  margin-top: 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}

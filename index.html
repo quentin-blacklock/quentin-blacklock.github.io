@@ -1,7 +1,29 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <div class="post-date-excerpt">{{ post.date | date_to_string }}</div>
+    <h2 class="post-title-excerpt"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="post-excerpt">{{ post.content | strip_html | truncatewords: 35  }}&nbsp;&nbsp; 
+      <a class="post-read-more" href="{{ post.url }}">&nbsp;&raquo;</a></div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">&larr; newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">&larr; newer</a>
+    {% endif %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">older &rarr;</a>
+  {% endif %}
+</div>
+

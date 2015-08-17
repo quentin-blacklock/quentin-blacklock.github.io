@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Quentin Blacklock'
+tagline:          'Code, Technology, Space, Knowledge Management'
+description:      'Made by me'
+url:              http://quentin-blacklock.github.io/
+baseurl:          '/'
+paginate:         10
+
+author:
+  name:           'Quentin Blacklock'
+  email:          'blacklockq@gmail.com'
+  url:            'https://twitter.com/qblacklock'
+
+gems:
+  - jekyll-sitemap
+
+version:          '1.0.0'
+
+github:
+  repo:           'https://github.com/quentin-blacklock'
+
+sass:
+    style:        ':compressed'

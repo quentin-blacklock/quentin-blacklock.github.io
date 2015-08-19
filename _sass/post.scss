@@ -54,3 +54,9 @@ a.post-read-more {
   color: #9a9a9a;;
   font-style: italic;
 }
+
+.label {
+  > a {
+    color: #fff;
+  }
+}

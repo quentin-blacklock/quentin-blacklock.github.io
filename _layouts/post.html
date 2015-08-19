@@ -40,9 +40,10 @@ layout: default
             {% assign tags_content = '' %}
         {% endif %}
         
-    <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>    
+   <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>    
   
   <button onclick="load_disqus('{{ page.url }}', '{{ page.title }}');" class="pure-button blog-comment-button">View/Add Comments</button>
+  
   <div id="disqus_thread"></div>
 </div>
 

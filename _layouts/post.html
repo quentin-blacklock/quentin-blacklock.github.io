@@ -40,7 +40,7 @@ layout: default
             {% assign tags_content = '' %}
         {% endif %}
         
-   <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>    
+   <p id="post-meta">{{ page.date | date_to_string }} Posted {{ category_content }}{{ tags_content }}</p>    
   
   <button onclick="load_disqus('{{ page.url }}', '{{ page.title }}');" class="pure-button blog-comment-button">View/Add Comments</button>
   

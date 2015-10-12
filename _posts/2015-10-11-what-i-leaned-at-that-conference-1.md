@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "What I learned at That Conference 2015b Post #1"
+title: "What I Learned at That Conference 2015 Post #1"
 category: programming
 tags: [that-conference-2015]
 ---

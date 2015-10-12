@@ -26,18 +26,18 @@ Some reasons to use GitHub pages to serve a static site include:
 -No more ftp – deployment is a simple git push
 -post are written in markdown
 
-Getting started with GitHub pages is easy: clone an existing GitHub pages site and then edit, customize and make your own, then deploy. I did this for this site by cloning the [GitHub repository] (https://github.com/mike-ward/mike-ward.github.io ) for http://mike-ward.net .
+Getting started with GitHub pages is easy: clone an existing GitHub pages site and then edit, customize and make your own, then deploy. I did this for this site by cloning the [GitHub repository](https://github.com/mike-ward/mike-ward.github.io ) for http://mike-ward.net .
 It is easy to add Google Analytics, Disqus comments.
 
 One of the modifications that I made to my site was to enable taxonomies by adding categories and tags. Using The Jekyll documentation, and some Google searching I was able to figure out how to do this. It is kind of a cumbersome manual process at this point, but it works and I should probably write a post about how I did it. Another modification was adding a twitter feed.
 
-It was this session that sparked my interest in exploring static website generators which is the subject of my talk at the [Milwaukee Code Camp] (http://www.milwaukeecodecamp.com) on October 24, 2015.
+It was this session that sparked my interest in exploring static website generators which is the subject of my talk at the [Milwaukee Code Camp](http://www.milwaukeecodecamp.com) on October 24, 2015.
 
 For more information:
 
-Mike Ward's session on Tuesday August 11, 2015 was GitHub Pages: Websites for you and your projects.[Slides] (http://mike-ward.net/talk-github-pages).
+Mike Ward's session on Tuesday August 11, 2015 was GitHub Pages: Websites for you and your projects. [Slides](http://mike-ward.net/talk-github-pages).
 
-[Mike Ward’s Blog] (http://mike-ward.net)
+[Mike Ward’s Blog](http://mike-ward.net)
 
 [GitHub Pages](https://pages.github.com)
 

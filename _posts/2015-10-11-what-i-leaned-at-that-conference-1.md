@@ -35,10 +35,10 @@ It was this session that sparked my interest in exploring static website generat
 
 For more information:
 
-Mike Ward' session on Tuesday August 11, 2015 was GitHub Pages: Websites for you and your projects.[Slides] (http://mike-ward.net/talk-github-pages/)
+Mike Ward's session on Tuesday August 11, 2015 was GitHub Pages: Websites for you and your projects.[Slides] (http://mike-ward.net/talk-github-pages).
 
-[Mike Ward’s Blog] (http://mike-ward.net/)
+[Mike Ward’s Blog] (http://mike-ward.net)
 
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](https://pages.github.com)
 
-[That Conference Summer Camp for Geeks](https://www.thatconference.com/)
+[That Conference Summer Camp for Geeks](https://www.thatconference.com)

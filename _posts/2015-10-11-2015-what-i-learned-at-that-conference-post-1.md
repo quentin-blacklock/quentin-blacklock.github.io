@@ -5,7 +5,7 @@ category: programming
 tags: [github, github-pages, jekyll, that-conference-2015]
 ---
 
-->![](/cdn/images/that-conference-logo.png)<-
+![](/cdn/images/that-conference-logo.png)
 
 ## This!
 

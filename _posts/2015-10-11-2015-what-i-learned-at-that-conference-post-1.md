@@ -5,7 +5,7 @@ category: programming
 tags: [github, github-pages, jekyll, that-conference-2015]
 ---
 
-###What I learned at That Conference 2015: This!
+##What I learned at That Conference 2015: This!
 
 Hosting this blog at GitHub Pages, and for free even!
 
@@ -19,12 +19,12 @@ GitHub pages has a "built in" static website generator. The static website gener
 Jekyll is a Ruby language based static website generator that can be installed on Mac, Linux and Windows, but this is not necessary to use GitHub pages*.
 
 Some reasons to use GitHub pages to serve a static site include: 
-	*Free
-	*Fast
-	*Secure
-	*You can use your own domain name
-	*No more ftp – deployment is a simple git push
-	*post are written in markdown
+	- Free
+	- Fast
+	- Secure
+	- You can use your own domain name
+	- No more ftp – deployment is a simple git push
+	- Post are written in markdown
 
 Getting started with GitHub pages is easy: clone an existing GitHub pages site and then edit, customize and make your own, then deploy. I did this for this site by cloning the [GitHub repository](https://github.com/mike-ward/mike-ward.github.io ) for http://mike-ward.net .
 It is easy to add Google Analytics, Disqus comments.

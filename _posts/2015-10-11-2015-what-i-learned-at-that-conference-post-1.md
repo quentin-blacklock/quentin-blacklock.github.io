@@ -5,6 +5,8 @@ category: programming
 tags: [github, github-pages, jekyll, that-conference-2015]
 ---
 
+![](http://quentin-blacklock.github.io/cdn/images/that-conference-logo-jpg)
+
 ##What I learned at That Conference 2015: This!
 
 Hosting this blog at GitHub Pages, and for free even!

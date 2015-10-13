@@ -5,9 +5,9 @@ category: programming
 tags: [github, github-pages, jekyll, that-conference-2015]
 ---
 
-![](/cdn/images/that-conference-logo.jpg)
+![](/cdn/images/that-conference-logo.png)
 
-##What I learned at That Conference 2015: This!
+## This!
 
 Hosting this blog at GitHub Pages, and for free even!
 

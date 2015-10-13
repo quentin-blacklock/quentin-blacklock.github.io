@@ -19,6 +19,7 @@ GitHub pages has a "built in" static website generator. The static website gener
 Jekyll is a Ruby language based static website generator that can be installed on Mac, Linux and Windows, but this is not necessary to use GitHub pages*.
 
 Some reasons to use GitHub pages to serve a static site include: 
+
 	- Free
 	- Fast
 	- Secure

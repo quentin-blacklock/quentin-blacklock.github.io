@@ -1,3 +1,4 @@
+---# Don't put tags in here unless used in post! Will cause build errors.
 - slug: github
   name: GitHub
 
@@ -6,3 +7,6 @@
 
 - slug: jekyll
   name: Jekyll
+  
+ - slug: that-conference-2015
+  name: That Conference 2015

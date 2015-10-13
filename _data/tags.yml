@@ -1,13 +1,15 @@
---- # Don't put tags in here unless used in post! Will cause build errors.
+--- # Tags for post
+- slug: github
+  name: GitHub
 
- - slug: github
-   name: GitHub
+- slug: github-pages
+  name: GitHub Pages
 
- - slug: github-pages
-   name: GitHub Pages
-
- - slug: jekyll
-   name: Jekyll
+- slug: jekyll
+  name: Jekyll
   
- - slug: that-conference-2015
-   name: That Conference 2015
+- slug: that-conference-2015
+  name: That Conference 2015
+   
+- slug: yaml
+  name: YAML

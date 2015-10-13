@@ -58,4 +58,4 @@ Corrected YAML Example
   name: YAML   
 {% endhighlight %}
 
-YAML is fussy a formating and can be the cause of build errors. Hard lesson learned. Hopefully this helps.
+YAML is fussy about formating and can be the cause of build errors. Hard lesson learned. Hopefully this helps.

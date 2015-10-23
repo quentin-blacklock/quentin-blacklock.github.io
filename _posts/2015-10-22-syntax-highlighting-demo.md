@@ -7,7 +7,7 @@ tags: [github, github-pages, jekyll]
 This post is a demonstration of syntax highlighting in Jekyll using Pygments, for my presentation  on Static Website Generators at [Milwaukee Code Camp](http://www.milwaukeecodecamp.com)
 October 24, 2015 [](http://www.milwaukeecodecamp.com)
 
-[Pygment supports many languages a list of the can be found here.](http://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters)
+[Pygments supports many languages a list of the can be found here.](http://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters)
 
 
 HTML

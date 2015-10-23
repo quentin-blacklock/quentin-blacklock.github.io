@@ -3,6 +3,10 @@ markdown:         redcarpet
 
 highlighter:      pygments
 
+syntax-highlighting:
+  enabled : true
+  css: syntax.css
+
 # Permalinks
 permalink:        pretty
 

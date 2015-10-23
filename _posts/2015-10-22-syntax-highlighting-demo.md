@@ -7,6 +7,8 @@ tags: [github, github-pages, jekyll]
 This post is a demonstration of syntax highlighting in Jekyll using Pygments, for my presentation at Milwaukee Code Camp
 October 24, 2015 [](http://www.milwaukeecodecamp.com)
 
+[Pygment supports many languages a list of the can be found here.](http://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters)
+
 
 HTML
 {% highlight html linenos %}
@@ -24,7 +26,7 @@ HTML
 </div>
 {% endhighlight %}
 
-c#
+C#
 {% highlight csharp linenos %}
 // A Hello World! program in C#.
 using System;
@@ -44,11 +46,14 @@ namespace HelloWorld
 }
 {% endhighlight %}
 
+Javascript
 {% highlight js linenos %}
 function loadScript(script, element) {
         var scr = document.createElement("script");
         scr.async = true;
         scr.src = script;
         (element || document.body).appendChild(scr);
-      }
+}
 {% endhighlight %}
+
+

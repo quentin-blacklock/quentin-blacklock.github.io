@@ -10,6 +10,7 @@ October 24, 2015 [](http://www.milwaukeecodecamp.com)
 
 [Pygments supports many languages a list of the can be found here.](http://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters)
 
+Here is a bunch of [Pygment themes for Jekyll.](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html)
 
 HTML
 {% highlight html linenos %}

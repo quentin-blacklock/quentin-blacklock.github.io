@@ -54,3 +54,5 @@ The Jekyll them demo that switched to mobile due to the low resolution of the pr
 with the source code at
 
 <a href="https://github.com/Phlow/feeling-responsive" target="_blank">https://github.com/Phlow/feeling-responsive</a>
+
+What else do you want to know about static site generators?

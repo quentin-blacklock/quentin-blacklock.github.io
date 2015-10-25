@@ -45,3 +45,12 @@ The definitive listing of Static Site Generators
 
 <a href="https://github.com/GitbookIO/gitbook" target="_blank">GitBook</a>
 
+##Jekyll Theme Demo
+
+The Jekyll them demo that switched to mobile due to the low resolution of the projector can be viewed at:
+
+<a href="http://phlow.github.io/feeling-responsive" target="_blank">http://phlow.github.io/feeling-responsive</a>
+
+with the source code at
+
+<a href="https://github.com/Phlow/feeling-responsive" target="_blank">https://github.com/Phlow/feeling-responsive</a>

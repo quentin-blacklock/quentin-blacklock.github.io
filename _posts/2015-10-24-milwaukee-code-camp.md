@@ -5,11 +5,11 @@ category: programming
 tags: [static-site-generators, github, github-pages, jekyll, hugo, cleaver, gitbook, milwaukee-code-camp-2015]
 ---
 
-On October 24, 2015 I gave a presentation on Static Website Generators.
+On October 24, 2015 I gave a presentation on Static Website Generators at <a href="http://www.milwaukeecodecamp.com" target="_blank">Milwakee Code Camp 2015.</a></br>
 
 ##The slides can be found on GitHub:
 
-<a href="http://quentin-blacklock.github.io/talk-static-site-generators/" target="_blank">http://quentin-blacklock.github.io/talk-static-site-generators/</a></br>
+<a href="http://quentin-blacklock.github.io/talk-static-site-generators" target="_blank">http://quentin-blacklock.github.io/talk-static-site-generators</a></br>
 
 With the presentation source in this repository:
 

@@ -7,7 +7,7 @@ tags: [static-site-generators, github, github-pages, jekyll, hugo, cleaver, gitb
 
 On October 24, 2015 I gave a presentation on Static Website Generators.
 
-The slides can be found on GitHub:
+##The slides can be found on GitHub:
 
 <a href="http://quentin-blacklock.github.io/talk-static-site-generators/" target="_blank">http://quentin-blacklock.github.io/talk-static-site-generators/</a></br>
 
@@ -27,7 +27,7 @@ Top Open-Source Static Site Generators
 <a href="https://staticsitegenerators.net" target="_blank">Static Site Generators</a></br>
 The definitive listing of Static Site Generators
 
-The Static Site Generator discussed include:
+##The Static Site Generators discussed include:
 
 <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
 

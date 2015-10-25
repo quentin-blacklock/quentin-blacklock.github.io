@@ -41,8 +41,7 @@ The definitive listing of Static Site Generators
 
 <a href="http://gohugo.io/" target="_blank">Hugo</a>
 
-<a href="https://github.com/jdan/cleaver" target="_blank">Cleaver GitHub Repo</a>
+<a href="https://github.com/jdan/cleaver" target="_blank">Cleaver</a>
 
-<a href="https://github.com/GitbookIO/gitbook" target="_blank"></a>
-
+<a href="https://github.com/GitbookIO/gitbook" target="_blank">GitBook</a>
 

@@ -19,6 +19,8 @@ Static Website Generators are command line tools that process input files consis
 
 Then theyoutput a static site consisting of html, css, javascipt and images.
 
+## The Static Site Generator Universe
+
 You can find many different static site generators at thes sites:
 
 <a href="https://www.staticgen.com" target="_blank">StaticGen</a></br>

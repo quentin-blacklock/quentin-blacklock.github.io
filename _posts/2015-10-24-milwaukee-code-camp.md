@@ -9,10 +9,11 @@ On October 24, 2015 I gave a presentation on Static Website Generators.
 
 The slides can be found on GitHub:
 
-http://quentin-blacklock.github.io/talk-static-site-generators/
+<a href="http://quentin-blacklock.github.io/talk-static-site-generators/" target="_blank">http://quentin-blacklock.github.io/talk-static-site-generators/</a></br>
 
 With the presentation source in this repository:
 
+<a href="https://github.com/quentin-blacklock/talk-static-site-generators" target="_blank">https://github.com/quentin-blacklock/talk-static-site-generators</a></br>
 https://github.com/quentin-blacklock/talk-static-site-generators
 
 Static Website Generators are command line tools that process input files consisting of configuation, content, templates and layouts, and then output a static site conssinting of html, css, javascipt and images.

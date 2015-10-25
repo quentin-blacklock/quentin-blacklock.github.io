@@ -11,5 +11,17 @@
 - slug: that-conference-2015
   name: That Conference 2015
    
-- slug: yaml
-  name: YAML
+- slug: hugo
+  name: Hugo
+  
+- slug: cleaver
+  name: cleaver
+  
+- slug: gitbook
+  name: GitBook
+  
+- slug: milwaukee-code-camp-2015
+  name: Milwaukee Code Camp 2015
+  
+- sulg: pygments
+  name: Pygments

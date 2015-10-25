@@ -15,7 +15,9 @@ With the presentation source in this repository:
 
 <a href="https://github.com/quentin-blacklock/talk-static-site-generators" target="_blank">https://github.com/quentin-blacklock/talk-static-site-generators</a></br>
 
-Static Website Generators are command line tools that process input files consisting of configuation, content, templates and layouts, and then output a static site conssinting of html, css, javascipt and images.
+Static Website Generators are command line tools that process input files consisting of configuation, content, templates and layouts.
+
+Then theyoutput a static site consisting of html, css, javascipt and images.
 
 You can find many different static site generators at thes sites:
 

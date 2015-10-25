@@ -14,7 +14,6 @@ The slides can be found on GitHub:
 With the presentation source in this repository:
 
 <a href="https://github.com/quentin-blacklock/talk-static-site-generators" target="_blank">https://github.com/quentin-blacklock/talk-static-site-generators</a></br>
-https://github.com/quentin-blacklock/talk-static-site-generators
 
 Static Website Generators are command line tools that process input files consisting of configuation, content, templates and layouts, and then output a static site conssinting of html, css, javascipt and images.
 

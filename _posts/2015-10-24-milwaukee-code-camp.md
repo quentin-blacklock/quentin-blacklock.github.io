@@ -2,7 +2,7 @@
 layout: post  
 title: "Milwaukee Code Camp Presentation"
 category: programming
-tags: [github, github-pages, jekyll, hugo, cleaver, gitbook, milwaukee-code-camp-2015]
+tags: [static-site-generators, github, github-pages, jekyll, hugo, cleaver, gitbook, milwaukee-code-camp-2015]
 ---
 
 On October 24, 2015 I gave a presentation on Static Website Generators.

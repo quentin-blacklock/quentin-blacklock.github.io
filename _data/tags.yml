@@ -25,3 +25,6 @@
   
 - sulg: pygments
   name: Pygments
+  
+- slug: static-site-generators
+  name: Static Site Generators

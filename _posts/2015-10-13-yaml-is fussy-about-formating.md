@@ -2,7 +2,7 @@
 layout: post  
 title: "YAML is Fussy About Formating"
 category: programming
-tags: [github, github-pages, jekyll, yaml]
+tags: [static-site-generators, github, github-pages, jekyll, yaml]
 ---
 
 YAML, a markup language, is used in GitHubPages, Jekyll and many other static website generators for configuation information, front matter in posts, and defining data. 

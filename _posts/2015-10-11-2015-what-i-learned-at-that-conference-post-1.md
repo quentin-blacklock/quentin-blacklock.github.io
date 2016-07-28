@@ -1,11 +1,19 @@
 ---
-layout: post  
+layout: single 
+header: 
+  overlay_image: splash2.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)" 
 title: "What I Learned at That Conference 2015 Post 1"
 category: programming
 tags: [static-site-generators, github, github-pages, jekyll, that-conference-2015]
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
-![](/cdn/images/that-conference-logo.png)
+![](/images/that-conference-logo.png)
 
 ## This!
 

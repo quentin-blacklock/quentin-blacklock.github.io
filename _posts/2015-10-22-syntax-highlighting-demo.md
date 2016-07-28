@@ -1,8 +1,16 @@
 ---
-layout: post  
+layout: single 
+header: 
+  overlay_image: splash2.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)" 
 title: "Syntax Highlighing Demo"
 category: programming
 tags: [static-site-generators,github, github-pages, jekyll, pygments, milwaukee-code-camp-2015]
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This post is a demonstration of syntax highlighting in Jekyll using Pygments, for my presentation  on Static Website Generators at [Milwaukee Code Camp](http://www.milwaukeecodecamp.com)

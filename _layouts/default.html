@@ -1,101 +1,31 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <meta name="description" content="Put something here">
-  <title>
-    {% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}
-    {% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}
-  </title>
-  <link rel="stylesheet" href="/css/site.css">
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-</head>
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
   <body>
-    <div id="content">
-      <h1 class="site-title">Quentin-Blacklock.github.io</h1>
-      <div id="topbar" class="pure-menu pure-menu-open pure-menu-horizontal">
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/downloads">Downloads</a></li>
-          <li><a href="/archive">Archive</a></li>
-          <li><a href="/about">About</a></li>
-        </ul>
-      </div>
-      <div class="left">
-        {{ content }}
-      </div>
-      <div class="right">
-        <div>
-          <a href="https://twitter.com/qblacklock" target="_blank" title="Follow &#64;https://twitter.com/qblacklock" class="twitter"></a>
-          <a href="https://github.com/quentin-blacklock" target="_blank" title="Follow on GitHub" class="github"></a>
-          <a href="https://www.linkedin.com/in/quentinblacklock" target="_blank" title="Connect on LinkedIn" class="linkedin"></a>
-        </div>
-        <div>Code, Technology, Space, Knowledge Management</div>
-        <!-- <p>
-          <script async
-                  src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=mikewardnet"
-                  id="_carbonads_js">
-          </script>
-        </p> -->
-        <p><strong>Recent Posts</strong></p>
-        <p>
-          {% for post in site.posts limit:7 %}
-          <div class="recent-post"><a href="{{ post.url }}">{{ post.title }}</a></div>
-          {% endfor %}
-          <div class="recent-post"><a href="/archive">More... ({{ site.posts | size }})</a></div>
-        </p>
-        <a class="twitter-timeline" href="https://twitter.com/qblacklock" data-widget-id="636161916788981762">Tweets by @qblacklock</a>
-      </div>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
-    <footer>
-      <div>
-        <a href="/">Home</a> |
-        <a href="/downloads">Downloads</a> |
-        <a href="/archive">Archive</a> |
-        <a href="/about">About</a>
-      </div>
-      <p>Copyright &copy; 2015, Quentin Blacklock</p>
-    </footer>
-    <script>
-      function init(f) {
-        if (window.addEventListener) window.addEventListener("load", f, false);
-        else if (window.attachEvent) window.attachEvent("onload", f);
-        else window.onload = f;
-      }
 
-      function loadScript(script, element) {
-        var scr = document.createElement("script");
-        scr.async = true;
-        scr.src = script;
-        (element || document.body).appendChild(scr);
-      }
+    {% include scripts.html %}
 
-      function load_disqus(id, title) {
-        var disqus_shortname = 'quentin-blacklock';
-        window.disqus_identifier = id;
-        window.disqus_title = title;
-        (function () {
-          var dsq = document.createElement('script');
-          dsq.type = 'text/javascript';
-          dsq.async = true;
-          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-      }
-
-      function analytics() {
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-66353164-1', 'auto');
-        ga('send', 'pageview');
-      }
-
-      init(analytics);
-    </script>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>
 </html>

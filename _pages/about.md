@@ -18,11 +18,17 @@ _____
 
 **Chief Information Officer**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Times Printing LLC        April 2014 - Present
+&nbsp;&nbsp;&nbsp;Times Printing LLC        April 2014 - Present
 
 
+**Systems & Software Engineer**
+
+&nbsp;&nbsp;&nbsp;Times Printing Co        October 2011 - April 2014
 
 
+**Programmer Analysist**
+
+&nbsp;&nbsp;&nbsp;Times Printing Co        April 2006 - October 2011
 
 
 

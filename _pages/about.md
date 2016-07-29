@@ -8,6 +8,7 @@ title: "About"
 author_profile: true
 ---
 # Quentin Blacklock
+
 ## Software developer, Data Analytics, Managment
 
 ------

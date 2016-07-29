@@ -17,6 +17,7 @@ _____
 _____
 
 #### Chief Information Officer
+
 ##### Times Printing LLc
 April 2014 - Present
 

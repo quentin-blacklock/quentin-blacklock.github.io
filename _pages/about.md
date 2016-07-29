@@ -16,10 +16,9 @@ _____
 ### Experience
 _____
 
-#### Chief Information Officer
+**Chief Information Officer**
 
-##### Times Printing LLC
-
+Times Printing LLC
 April 2014 - Present
 
 

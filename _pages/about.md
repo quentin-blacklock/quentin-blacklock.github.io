@@ -10,10 +10,10 @@ author_profile: true
 
 # Quentin Blacklock
 
-## Software Development, Data Analytics, Strategic Management of Technology
+### Software Development, Data Analytics, Strategic Management of Technology
 _____
 
-### Experience
+## Experience
 _____
 
 **Chief Information Officer**
@@ -23,9 +23,9 @@ April 2014 - Present
 
 
 
-### Technical
+## Technical
 _____
 
 
-### Education
+## Education
 _____

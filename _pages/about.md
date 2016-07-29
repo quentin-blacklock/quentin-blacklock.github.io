@@ -10,14 +10,21 @@ author_profile: true
 
 # Quentin Blacklock
 
-## Software Developer, Data Analytics, Strategic Management of Technology
-_____
-
-### Technical
+## Software Development, Data Analytics, Strategic Management of Technology
 _____
 
 ### Experience
 _____
+
+#### Chief Information Officer
+##### Times Printing LLc
+April 2014 - Present
+
+
+
+### Technical
+_____
+
 
 ### Education
 _____

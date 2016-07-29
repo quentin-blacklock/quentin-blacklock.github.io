@@ -18,7 +18,8 @@ _____
 
 #### Chief Information Officer
 
-##### Times Printing LLc
+##### Times Printing LLC
+
 April 2014 - Present
 
 

@@ -9,7 +9,7 @@ author_profile: true
 ---
 # Quentin Blacklock
 
-## Software developer, Data Analytics, Managment
+## Software Developer, Data Analytics, Stategic Management of Technology
 
 ------
 
@@ -17,5 +17,6 @@ author_profile: true
 
 
 ### Experience
+
 
 ### Education

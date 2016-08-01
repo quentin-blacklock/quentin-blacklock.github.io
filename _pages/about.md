@@ -27,13 +27,13 @@ _____
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2014 May 2016 
 
 - Provided data and analytics support through due dilligence and aquisition.
-- Developed manufacturiing performanace analytics.
+- Developed manufacturing performanace analytics.
 - Leader of cross-functional Future Business Systems Research Team.
 
 **Systems & Software Engineer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; October 2011 - April 2014
 
 - 75% Software Engineer 25% IT & Industrial Systems Engineer.
-- Implemented Documenta Management Systems.
+- Implemented Document Management System.
 - Developed advanced Job Cost Analysis Tools.
 
 

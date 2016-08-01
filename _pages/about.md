@@ -23,7 +23,7 @@ _____
 **Systems & Software Engineer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; October 2011 - April 2014
 
 
-**Programmer Analyist** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2006 - October 2011
+**Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2006 - October 2011
 
 - Line of Bussiness Appication Development.
 - Reporting & Analytics.

@@ -21,8 +21,7 @@ _____
 - Leading technological transformation post aquistion.
 - Planning technological integration in to the new parent company.
 - Planning data center and infrustructure updates.
-- Adapting bussiness systems to new re
-porting requirements for financial, job costing, manufacturing performance, and sales compensation.
+- Adapting bussiness systems to new reporting requirements for financial, job costing, manufacturing performance, and sales compensation.
 
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2014 May 2016 

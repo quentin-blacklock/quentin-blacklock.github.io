@@ -19,7 +19,7 @@ _____
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing LLC &nbsp;&nbsp;&nbsp; May 2016 - Present
 
 - Leading technological transformation post aquistion.
-- Planning technological integration to the new parent company.
+- Planning technological integration in to the new parent company.
 - Planning data center and infrustructure updates.
 - Adapting bussiness systems to new re
 porting requirements for financial, job costing, manufacturing performance, and sales compensation.

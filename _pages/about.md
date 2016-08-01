@@ -17,15 +17,27 @@ _____
 _____
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing LLC &nbsp;&nbsp;&nbsp; May 2016 - Present
+- Leading technological transformation post aquistion.
+- planning technological integration to the new parent company.
+- Planning data center and infrustructure updates.
+- Adapting bussiness systems to new re
+porting requirements for financial, job costing, manufacturing performance, and sales compensation.
+
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2014 May 2016 
 
+- Provided data and analytics support through due dilligence and aquisition.
+- Developed manufacturiing performanace analytics.
+- Leader of cross-functional Future Business Systems Research Team.
+
 **Systems & Software Engineer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; October 2011 - April 2014
+- 75% Software Engineer 25% IT & Industrial Systems Engineer.
+- Developed advanced Job Cost Analysis Tools.
 
 
 **Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2006 - October 2011
 
-- Line of Bussiness Appication Development.
+- Line of Business Appication Development.
 - Reporting & Analytics.
 - Data pumps & systems integration.
 

@@ -19,7 +19,7 @@ _____
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing LLC &nbsp;&nbsp;&nbsp; May 2016 - Present
 
 - Leading technological transformation post aquistion.
-- planning technological integration to the new parent company.
+- Planning technological integration to the new parent company.
 - Planning data center and infrustructure updates.
 - Adapting bussiness systems to new re
 porting requirements for financial, job costing, manufacturing performance, and sales compensation.
@@ -65,10 +65,11 @@ ____
 
 **Bachelor of Science Management Information Systems** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2011
 
-GPA 3.89
+- GPA 3.89
 
 **Assoicate Degree Electrical Power Engineering** Lakeshore Technical College - 1986
 
+- GPA 3.96
 
 ## Technical
 

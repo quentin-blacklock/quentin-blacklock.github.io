@@ -52,10 +52,23 @@ porting requirements for financial, job costing, manufacturing performance, and 
 - Developed backup and restore procedures for industrial systems.
 
 ## Education
-_____
 
-## Education
+**Master of Science Engineering Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2014
+
+- GPA 3.96
+
+**Masters Certificate Knowlege Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2013
 _____
+- GPA 4.0
+
+**Bachelor of Science Management Information Systems** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2011
+
+GPA 3.89
+
+**Assoicate Degree Electrical Power Engineering** Lakeshore Technical College - 1986
+
+__
+___
 
 
 ## Technical

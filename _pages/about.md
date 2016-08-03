@@ -63,6 +63,7 @@ ____
 **Masters Certificate Knowlege Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2013
 
 - GPA 4.0
+- Knowledge management is the process of capturing, developing, sharing, and effectively using organizational knowledge.
 
 **Bachelor of Science Management Information Systems** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2011
 

@@ -79,7 +79,7 @@ ____
 - GPA 3.96
 - DC and AC Electricity.
 - Digital Electronics.
-- Control Systems.
+- Generators and Motor Control Systems.
 - Power Transmission.
 
 ## Technical

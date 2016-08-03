@@ -34,7 +34,7 @@ _____
 
 - 75% Software Engineer 25% IT & Industrial Systems Engineer.
 - Implemented Document Management System.
-- Developed advanced Job Cost Analysis Tools.
+- Developed Advanced Job Cost Analysis Tools.
 
 
 **Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2006 - October 2011
@@ -57,6 +57,8 @@ ____
 **Master of Science Engineering Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2014
 
 - GPA 3.96
+- Strategic Managment of Technolgy, People and Knowledge.
+- Thesis topic: Key Factors for Social Knowledge Management Initiatives
 
 **Masters Certificate Knowlege Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2013
 
@@ -65,6 +67,11 @@ ____
 **Bachelor of Science Management Information Systems** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2011
 
 - GPA 3.89
+- Application Development Focus.
+- Project: Warehouse Management Bar-coding. Sold to company, in production.
+- Project: Business Intelligence Dashboards.
+- Coursework: JAVA, Databases, Project Management, Business Intelligence.
+
 
 **Assoicate Degree Electrical Power Engineering** Lakeshore Technical College - 1986
 

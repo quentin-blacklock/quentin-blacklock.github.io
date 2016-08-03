@@ -158,7 +158,7 @@ hr {
 	text-align: center;
 }
 
-hr:after {
+hr :after {
 	content: '§';
 	display: inline-block;
 	position: relative;

@@ -77,6 +77,10 @@ ____
 **Assoicate Degree Electrical Power Engineering** Lakeshore Technical College - 1986
 
 - GPA 3.96
+- DC and AC Electricity.
+- Digital Electronics.
+- Control Systems.
+- Power Transmission.
 
 ## Technical
 

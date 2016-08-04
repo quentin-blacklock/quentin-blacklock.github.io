@@ -13,9 +13,9 @@ author_profile: true
 ### Software Development, Data Analytics, Strategic Management of Technology, Knowledge & People
 _____
 
-Quentin has a strong manufacturing background with 20 + years of experience that includes operations, technology and management, has prepared him for the challenges as business seeks digitally transformation.
+Quentin has a strong manufacturing background with 20 + years of experience that includes operations, technology and management, that has prepared him for the challenges as business seeks digitally transformation.
 
-Quentin seeks opportunities to solve business problems through software development, data analytics, and the strategic management of technology. people and knowledge.
+Quentin seeks opportunities to solve business problems through software development, data analytics, and the strategic management of technology, people and knowledge.
 
 ## Experience
 _____

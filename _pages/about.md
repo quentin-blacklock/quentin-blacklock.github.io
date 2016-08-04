@@ -90,4 +90,11 @@ ____
 ## Technical
 
 |**Languages**|**Tools**|**Operating Systems**|
-|C#|Visual Studio|Windows 8.1|
+|C# .NET|Visual Studio 2013, 2010, 2008|Windows 8.1, 7, XP, 2000|
+|MS SQL|Linq Pad|Windows Server 2008, 2003, 2000|
+|MySQL| |Linux|
+|Java|Net Beans|MSDOS|
+|SSRS | | |
+|Telerik Reports| | |
+|Crystal Reports| | |
+|Access|||

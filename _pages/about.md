@@ -17,6 +17,10 @@ Quentin has a strong manufacturing background with 20 + years of experience that
 
 Quentin seeks opportunities to solve business problems through software development, data analytics, and the strategic management of technology, people and knowledge.
 
+Passionate about lifelong learning, Quentin is currently exploring gamification in business, Power BI, and social knowledge management. 
+
+Outside of geek stuff, Quentin enjoys golfing, distance cycling, and craft beer.
+
 ## Experience
 _____
 

@@ -94,7 +94,6 @@ ____
 |MS SQL|Linq Pad|Windows Server 2008, 2003, 2000|
 |MySQL| |Linux|
 |Java|Net Beans|MSDOS|
-|SSRS | | |
-|Telerik Reports| | |
-|Crystal Reports| | |
-|Access|||
+|SSRS |Crystal Reports| |
+|Telerik Reports|Access| |
+

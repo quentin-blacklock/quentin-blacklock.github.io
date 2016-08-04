@@ -10,7 +10,7 @@ author_profile: true
 
 # Quentin Blacklock
 
-### Software Development, Data Analytics, Strategic Management of Technology
+### Software Development, Data Analytics, Strategic Management of Technology, Knowledge & People
 _____
 
 ## Experience
@@ -26,7 +26,7 @@ _____
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2014 May 2016 
 
-- Provided data and analytics support through due dilligence and aquisition.
+- Provided data and analytics support through due diligence and aquisition.
 - Developed manufacturing performanace analytics.
 - Leader of cross-functional Future Business Systems Research Team.
 
@@ -35,7 +35,8 @@ _____
 - 75% Software Engineer 25% IT & Industrial Systems Engineer.
 - Implemented Document Management System.
 - Developed Advanced Job Cost Analysis Tools.
-
+- Line of Business Appication Development.
+- Managment Reporting & Business Analytics
 
 **Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2006 - October 2011
 
@@ -47,7 +48,7 @@ _____
 
 - Maintained Binding Line Controllers.
 - Maintained Industrial Computers.
-- Maintained Industrial Ink jet printers.
+- Maintained Industrial Ink Jet printers.
 - Developed backup and restore procedures for industrial systems.
 
 ## Education
@@ -84,4 +85,5 @@ ____
 
 ## Technical
 
-
+|Languages|Tools|Operating Systems|
+|C#|Visual Studio|Windows 8.1|

@@ -13,13 +13,15 @@ author_profile: true
 ### Software Development, Data Analytics, Strategic Management of Technology, Knowledge & People
 _____
 
-Quentin has a strong manufacturing background with 20 + years of experience that includes operations, technology and management, that has prepared him for the challenges as business seeks digitally transformation.
+I have a strong manufacturing background with 20 + years of experience that includes operations, technology and management, that has prepared me for the challenges as business seeks digitally transformation.
 
-Quentin seeks opportunities to solve business problems through software development, data analytics, and the strategic management of technology, people and knowledge.
+I seek new opportunities to solve business problems through software development, data analytics, and the strategic management of technology, people and knowledge.
 
-Passionate about lifelong learning, Quentin is currently exploring gamification in business, Power BI, and social knowledge management. 
+Passionate about lifelong learning, I am currently exploring gamification in business, Power BI, and social knowledge management. 
 
 Outside of geek stuff, Quentin enjoys golfing, distance cycling, and craft beer.
+
+
 
 ## Experience
 _____

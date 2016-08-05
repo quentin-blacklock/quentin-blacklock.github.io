@@ -28,38 +28,51 @@ _____
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing LLC &nbsp;&nbsp;&nbsp; May 2016 - Present
 
-- Leading technological transformation post aquistion.
+- Leading technological transformation post acquisition.
 - Planning technological integration in to the new parent company.
-- Planning data center and infrustructure updates.
-- Adapting bussiness systems to new reporting requirements for financial, job costing, manufacturing performance, and sales compensation.
+- Planning data center and infrastructure updates.
+- Adapting business systems to new reporting requirements for financial, job costing, manufacturing performance, and sales compensation.
+- Leader of Compliance Team for FSC & SFI Certifications.
 
+**Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; April 2014 May 2016 
 
-**Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2014 May 2016 
-
-- Provided data and analytics support through due diligence and aquisition.
-- Developed manufacturing performanace analytics.
+- Provided data and analytics support to management through due diligence and acquisition.
+- Developed Manufacturing Performance Analytics for Equipment and Operators.
+- Developed Dashboard Portal for Customer Service.
+- Implemented Server-Based Document Scanning and OCR System.
+- Developed Management App Date Database for Invoice Scan to Customer Email.
 - Leader of cross-functional Future Business Systems Research Team.
+- Leader of Compliance Team for FSC & SFI Certifications.
 
-**Systems & Software Engineer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; October 2011 - April 2014
+**Systems & Software Engineer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; October 2011 - April 2014
 
 - 75% Software Engineer 25% IT & Industrial Systems Engineer.
-- Implemented Document Management System.
+- Implemented Document Management System and Wireless Mobile Units.
+- Developed UPS & Fedex Integration to Accounting with Reporting.
+- Developed CRM App for Billing.
+- Web Enabled Legacy Scheduling System.
 - Developed Advanced Job Cost Analysis Tools.
-- Line of Business Appication Development.
-- Managment Reporting & Business Analytics
+- Line of Business Application Development.
+- Management Reporting & Business Analytics.
 
-**Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; April 2006 - October 2011
+**Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; April 2006 - October 2011
 
-- Line of Business Appication Development.
+- Implemented Warehouse Management System with Barcoding.
+- Developed Data Pump between ERP System and Warehouse System.
+- Developed Business Specific Administration Module for Warehouse System.
+- Developed Replacement Output Module for Warehouse System.
+- Developed Bindery Planning Module to ERP System.
+- Developed Inventory Search for Warehouse System.
+- Line of Business Application Development.
 - Reporting & Analytics.
 - Data pumps & systems integration.
 
-**IT & Finishing Systems Technician** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc &nbsp;&nbsp;&nbsp; February 2004 - April 2006
+**IT & Finishing Systems Technician** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; February 2004 - April 2006
 
 - Maintained Binding Line Controllers.
 - Maintained Industrial Computers.
 - Maintained Industrial Ink Jet printers.
-- Developed backup and restore procedures for industrial systems.
+- Developed backup and restore application for industrial systems.
 
 ## Education
 ____
@@ -68,13 +81,13 @@ ____
 **Master of Science Engineering Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2014
 
 - GPA 3.96
-- Strategic Managment of Technolgy, People and Knowledge.
-- Thesis topic: Key Factors for Social Knowledge Management Initiatives
+- Strategic Management of Technol0gy, People and Knowledge.
+- Thesis topic: Key Factors for Social Knowledge Management Initiatives.
 
-**Masters Certificate Knowlege Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2013
+**Masters Certificate Knowledge Management** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2013
 
 - GPA 4.0
-- Knowledge management is the process of capturing, developing, sharing, and effectively using organizational knowledge.
+- Knowledge Management is the process of capturing, developing, sharing, and effectively using organizational knowledge.
 
 **Bachelor of Science Management Information Systems** &nbsp;&nbsp;&nbsp; Milwaukee School of Engineering - 2011
 
@@ -82,10 +95,11 @@ ____
 - Application Development Focus.
 - Project: Warehouse Management Bar-coding. Sold to company, in production.
 - Project: Business Intelligence Dashboards.
+- Project: Projct Management for Charity Fundraiser.
 - Coursework: JAVA, Databases, Project Management, Business Intelligence.
 
 
-**Assoicate Degree Electrical Power Engineering** Lakeshore Technical College - 1986
+**Associate Degree Electrical Power Engineering** Lakeshore Technical College - 1986
 
 - GPA 3.96
 - DC and AC Electricity.

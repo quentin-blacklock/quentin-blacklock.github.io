@@ -35,7 +35,7 @@ _____
 - Planning data center and infrastructure updates.
 - Leader of Compliance Team for FSC & SFI Certifications.
 - IT Manager.
-- Administration and Support of Enterprise Applications.
+- Administration and Support of Enterprise Business Applications.
 - General Systems and Network Administration of over 200 users in an enterprise environment.
 - Director of Campus Security.
 

@@ -95,7 +95,7 @@ ____
 - Application Development Focus.
 - Project: Warehouse Management Bar-coding. Sold to company, in production.
 - Project: Business Intelligence Dashboards.
-- Project: Projct Management for Charity Fundraiser.
+- Project: Project Management for Charity Fundraiser.
 - Coursework: JAVA, Databases, Project Management, Business Intelligence.
 
 

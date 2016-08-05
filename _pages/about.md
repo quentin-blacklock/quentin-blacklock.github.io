@@ -10,7 +10,7 @@ author_profile: true
 
 # Quentin Blacklock
 
-### Software Development, Data Analytics, Strategic Management of Technology, Knowledge & People
+### Software Development, Data Analytics, Strategic Management of Technology, People & Knowledge
 _____
 
 I have a strong manufacturing background with 20 + years of experience that includes operations, technology and management, that has prepared me for the challenges as business seeks digitally transformation.
@@ -28,11 +28,16 @@ _____
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing LLC &nbsp;&nbsp;&nbsp; May 2016 - Present
 
-- Leading technological transformation post acquisition.
-- Planning technological integration in to the new parent company.
+- Leading end to end technology transition post acquisition.
+- Developed New Reporting Systems for Job Cost Analysis, Manufacturing Performance Reporting.
+- Developed New Sales Compensation Plan Automation.
+- Planning technological integration into the new parent company.
 - Planning data center and infrastructure updates.
-- Adapting business systems to new reporting requirements for financial, job costing, manufacturing performance, and sales compensation.
 - Leader of Compliance Team for FSC & SFI Certifications.
+- IT Manager.
+- Administration and Support of Enterprise Applications.
+- General Systems and Network Administration of over 200 users in an enterprise environment.
+- Director of Campus Security.
 
 **Chief Information Officer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; April 2014 May 2016 
 
@@ -43,6 +48,10 @@ _____
 - Developed Management App Date Database for Invoice Scan to Customer Email.
 - Leader of cross-functional Future Business Systems Research Team.
 - Leader of Compliance Team for FSC & SFI Certifications.
+- Developed Internal Audit software for FSC & SFI Compliance.
+- IT Manager.
+- Administration and Support of Enterprise Business Applications.
+- General Systems and Network Administration of over 200 users in an enterprise environment.
 
 **Systems & Software Engineer** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; October 2011 - April 2014
 
@@ -51,9 +60,15 @@ _____
 - Developed UPS & Fedex Integration to Accounting with Reporting.
 - Developed CRM App for Billing.
 - Web Enabled Legacy Scheduling System.
+- Developed Customer Growl Implementation for Schedule Change Notification.
 - Developed Advanced Job Cost Analysis Tools.
+- Developed Slow Moving Paper Inventory Analysis Tools.
 - Line of Business Application Development.
-- Management Reporting & Business Analytics.
+- Project Manager - Fiber Internet and PRI Installation.
+- Project Manager - New Phone System Installation. 
+- Industrial Systems Administration and Maintenance over 40 Industrial Computers
+- Administration and Support of Enterprise Business Applications.
+- General Systems and Network Administration of over 250 users in an enterprise environment.
 
 **Programmer Analyst** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; April 2006 - October 2011
 
@@ -64,15 +79,17 @@ _____
 - Developed Bindery Planning Module to ERP System.
 - Developed Inventory Search for Warehouse System.
 - Line of Business Application Development.
-- Reporting & Analytics.
-- Data pumps & systems integration.
+- Microsoft & Crystal Reports.
+- Linux System Administration.
+- Database Administration.
 
 **IT & Finishing Systems Technician** &nbsp;&nbsp;&nbsp;Times Printing Co. Inc. &nbsp;&nbsp;&nbsp; February 2004 - April 2006
 
 - Maintained Binding Line Controllers.
 - Maintained Industrial Computers.
-- Maintained Industrial Ink Jet printers.
+- Maintained Industrial Ink Jet Printers.
 - Developed backup and restore application for industrial systems.
+- Modified DOS based Machine Controllers to work with TCPIP. Saved the company $400,000.
 
 ## Education
 ____

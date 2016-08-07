@@ -21,7 +21,7 @@ Passionate about lifelong learning, I am currently exploring gamification in bus
 
 Outside of geek stuff, Quentin enjoys golfing, distance cycling, and craft beer.
 
-[Word](quentin-blacklock.github.io/cdn/QuentinResume.docx) [PDF](cdn/QuentinResume.pdf)
+[Word](https://github.com/quentin-blacklock/quentin-blacklock.github.io/blob/master/cdn/QuentinResume.docx) [PDF](cdn/QuentinResume.pdf)
 
 ## Experience
 _____

@@ -21,7 +21,7 @@ Passionate about lifelong learning, I am currently exploring gamification in bus
 
 Outside of geek stuff, Quentin enjoys golfing, distance cycling, and craft beer.
 
-
+ Download [Word](https://1drv.ms/f/s!ArunsVPqZR7zipU0YMA3iCbv-Cp52w) [PDF](https://1drv.ms/b/s!ArunsVPqZR7zipU1Ciq2ktdg99umXA)
 
 ## Experience
 _____

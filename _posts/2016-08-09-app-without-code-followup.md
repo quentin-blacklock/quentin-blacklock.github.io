@@ -33,3 +33,5 @@ What is the link to the Hour of Code Videos?
 
 The link to App Inventor:
 [MIT Appinvenvetor](http://ai2.appinventor.mit.edu)
+
+Finally, thaks for the great feedback that will help make this presentation better.

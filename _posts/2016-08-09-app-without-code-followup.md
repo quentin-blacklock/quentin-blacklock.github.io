@@ -15,7 +15,7 @@ related: true
 
 Thank you to everyone who came to my session Android Apps Without Code at That Conference!
 
-The slide deck can be downloaded [here](https://1drv.ms/p/s!ArunsVPqZR7zipV3T-mjI-WefuH-TQ)
+The slide deck can be downloaded [here](https://1drv.ms/p/s!ArunsVPqZR7zipV3T-mjI-WefuH-TQ).
 
 
 The. aia file for the app we created together be downloaded [here](https://1drv.ms/u/s!ArunsVPqZR7zipV4GdN0qmtGKS-clw).

@@ -3,7 +3,7 @@ layout: single
 header: 
   overlay_image: splash2.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)" 
-title: "Adriod Apps Without Code Follow Up"
+title: "Andriod Apps Without Code Follow Up"
 category: [programming, speaking]
 tags: [that-conference-2016, mit-app-inventor, android]
 author_profile: true
